@@ -1,0 +1,2 @@
+# diploma.github.io
+Диплом
